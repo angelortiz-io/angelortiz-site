@@ -1,0 +1,4 @@
+baseURL = 'https://www.angelortiz.io/'
+languageCode = 'en-us'
+title = 'Angel Ortiz | Software Engineer'
+theme = 'hugo-profile'
